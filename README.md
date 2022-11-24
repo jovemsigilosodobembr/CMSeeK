@@ -11,39 +11,13 @@
 > A content management system (CMS) manages the creation and modification of digital content. It typically supports multiple users in a collaborative environment. Some noteable examples are: *WordPress, Joomla, Drupal etc*.
 
 ## Release History
-```
-- Version 1.1.3 [25-07-2020]
-- Version 1.1.2 [19-05-2019]
-- Version 1.1.1 [01-02-2019]
-- Version 1.1.0 [28-08-2018]
-- Version 1.0.9 [21-08-2018]
-- Version 1.0.8 [14-08-2018]
-- Version 1.0.7 [07-08-2018]
+
 ...
 ```
 [Changelog File](https://github.com/Tuhinshubhra/CMSeeK/blob/master/CHANGELOG)
 
-## Functions Of CMSeek:
 
-- Basic CMS Detection of over 170 CMS
-- Drupal version detection
-- Advanced Wordpress Scans
-  - Detects Version
-  - User Enumeration
-  - Plugins Enumeration
-  - Theme Enumeration
-  - Detects Users (3 Detection Methods)
-  - Looks for Version Vulnerabilities and much more!
-- Advanced Joomla Scans
-  - Version detection
-  - Backup files finder
-  - Admin page finder
-  - Core vulnerability detection
-  - Directory listing check
-  - Config leak detection
-  - Various other checks
-- Modular bruteforce system
-  - Use pre made bruteforce modules or create your own and integrate with it
+ 
 
 ## Requirements and Compatibility:
 
@@ -52,10 +26,6 @@ CMSeeK is built using **python3**, you will need python3 to run this tool and is
 ## Installation and Usage:
 
 It is fairly easy to use CMSeeK, just make sure you have python3 and git (just for cloning the repo) installed and use the following commands:
-
-- git clone `https://github.com/Tuhinshubhra/CMSeeK`
-- cd CMSeeK
-- pip/pip3 install -r requirements.txt
 
 For guided scanning:
 
