@@ -155,24 +155,3 @@ Also you can try reading comments in the code those are pretty random and weird!
   <img alt="WordPress Scan Result" src="https://i.imgur.com/cOtCJLj.png" />
   <br><em>WordPress Scan Result</em><br>
 </p>
-
-## Guidelines for opening an issue:
-
-Please make sure you have the following info attached when opening a new issue:
-- Target
-- Exact copy of error or screenshot of error
-- Your operating system and python version
-
-**Issues without these informations might not be answered!**
-
-## Disclaimer:
-
-**Usage of CMSeeK for testing or exploiting websites without prior mutual consistency can be considered as an illegal activity. It is the final user's responsibility to obey all applicable local, state and federal laws. Authors assume no liability and are not responsible for any misuse or damage caused by this program.**
-
-## License:
-
-CMSeeK is licensed under [GNU General Public License v3.0](https://github.com/Tuhinshubhra/CMSeeK/blob/master/LICENSE)
-
-## Follow Me @r3dhax0r:
-
-[Twitter](https://twitter.com/r3dhax0r)   
